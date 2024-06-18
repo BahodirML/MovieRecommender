@@ -12,7 +12,7 @@ Ever wondered what movie to watch next? Our Movie Recommender System has got you
 - 📈 **Scalable**: Easily add more data and users to improve recommendations.
 
 ## 📊 Data
-We use datasets from various sources like [MovieLens]([https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/100k/)) for movie and user data.
+We use datasets from various sources like [MovieLens](https://grouplens.org/datasets/movielens/) for movie and user data.
 
 ## 💡 Contributing
 We welcome contributions from the community! Feel free to fork the repository, make improvements, and open a pull request.
